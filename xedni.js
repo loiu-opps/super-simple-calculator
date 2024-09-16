@@ -12,7 +12,7 @@ function clearDisplay() {
 function calculate() {
 
   if (display.value === '6x9' || display.value === '6*9') {
-    display.value = "tangina mo"; 
+    display.value = "I miss u"; 
   } else {
     try {
 
